@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "cdat",
+    "packageName": "com.nwt.cdat",
+    "packageFolder": "com/nwt/cdat",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "rememberMeKey": "b4ad221fd4899e41ed0eeb0fb1a9ede292f8f73a"
+  }
+}
